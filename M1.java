@@ -18,6 +18,7 @@ class M1
 {
 public static void main(String s[])
 {
+System.out.println("Success....Demo.......!!!!..");
 int x=Integer.parseInt(s[0]);
 int y=Integer.parseInt(s[1]);
 Mul m=new Mul();
